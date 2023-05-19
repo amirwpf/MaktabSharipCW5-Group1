@@ -1,0 +1,15 @@
+F:\software\exe\visual studio 2022\maktabSh\CW\CW4\CW_4_1\newDir\MaktabSharipCW5-Group1\CW_4_1\CW_4_1\obj\Debug\net6.0\CW_4_1.csproj.AssemblyReference.cache
+F:\software\exe\visual studio 2022\maktabSh\CW\CW4\CW_4_1\newDir\MaktabSharipCW5-Group1\CW_4_1\CW_4_1\obj\Debug\net6.0\CW_4_1.GeneratedMSBuildEditorConfig.editorconfig
+F:\software\exe\visual studio 2022\maktabSh\CW\CW4\CW_4_1\newDir\MaktabSharipCW5-Group1\CW_4_1\CW_4_1\obj\Debug\net6.0\CW_4_1.AssemblyInfoInputs.cache
+F:\software\exe\visual studio 2022\maktabSh\CW\CW4\CW_4_1\newDir\MaktabSharipCW5-Group1\CW_4_1\CW_4_1\obj\Debug\net6.0\CW_4_1.AssemblyInfo.cs
+F:\software\exe\visual studio 2022\maktabSh\CW\CW4\CW_4_1\newDir\MaktabSharipCW5-Group1\CW_4_1\CW_4_1\obj\Debug\net6.0\CW_4_1.csproj.CoreCompileInputs.cache
+F:\software\exe\visual studio 2022\maktabSh\CW\CW4\CW_4_1\newDir\MaktabSharipCW5-Group1\CW_4_1\CW_4_1\bin\Debug\net6.0\CW_4_1.exe
+F:\software\exe\visual studio 2022\maktabSh\CW\CW4\CW_4_1\newDir\MaktabSharipCW5-Group1\CW_4_1\CW_4_1\bin\Debug\net6.0\CW_4_1.deps.json
+F:\software\exe\visual studio 2022\maktabSh\CW\CW4\CW_4_1\newDir\MaktabSharipCW5-Group1\CW_4_1\CW_4_1\bin\Debug\net6.0\CW_4_1.runtimeconfig.json
+F:\software\exe\visual studio 2022\maktabSh\CW\CW4\CW_4_1\newDir\MaktabSharipCW5-Group1\CW_4_1\CW_4_1\bin\Debug\net6.0\CW_4_1.dll
+F:\software\exe\visual studio 2022\maktabSh\CW\CW4\CW_4_1\newDir\MaktabSharipCW5-Group1\CW_4_1\CW_4_1\bin\Debug\net6.0\CW_4_1.pdb
+F:\software\exe\visual studio 2022\maktabSh\CW\CW4\CW_4_1\newDir\MaktabSharipCW5-Group1\CW_4_1\CW_4_1\obj\Debug\net6.0\CW_4_1.dll
+F:\software\exe\visual studio 2022\maktabSh\CW\CW4\CW_4_1\newDir\MaktabSharipCW5-Group1\CW_4_1\CW_4_1\obj\Debug\net6.0\refint\CW_4_1.dll
+F:\software\exe\visual studio 2022\maktabSh\CW\CW4\CW_4_1\newDir\MaktabSharipCW5-Group1\CW_4_1\CW_4_1\obj\Debug\net6.0\CW_4_1.pdb
+F:\software\exe\visual studio 2022\maktabSh\CW\CW4\CW_4_1\newDir\MaktabSharipCW5-Group1\CW_4_1\CW_4_1\obj\Debug\net6.0\CW_4_1.genruntimeconfig.cache
+F:\software\exe\visual studio 2022\maktabSh\CW\CW4\CW_4_1\newDir\MaktabSharipCW5-Group1\CW_4_1\CW_4_1\obj\Debug\net6.0\ref\CW_4_1.dll

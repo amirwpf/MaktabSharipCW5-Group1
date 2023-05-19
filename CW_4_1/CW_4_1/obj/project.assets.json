@@ -1,12 +1,11 @@
 {
   "version": 3,
   "targets": {
-    ".NETFramework,Version=v6.0": {},
-    ".NETFramework,Version=v6.0/win7-x86": {}
+    "net6.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    ".NETFramework,Version=v6.0": []
+    "net6.0": []
   },
   "packageFolders": {
     "C:\\Users\\amir\\.nuget\\packages\\": {},
@@ -16,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\software\\exe\\visual studio 2022\\maktabSh\\CW\\CW4\\CW_4_1\\MaktabSharipCW5-Group1\\CW_4_1\\CW_4_1\\CW_4_1.csproj",
+      "projectUniqueName": "F:\\software\\exe\\visual studio 2022\\maktabSh\\CW\\CW4\\CW_4_1\\newDir\\MaktabSharipCW5-Group1\\CW_4_1\\CW_4_1\\CW_4_1.csproj",
       "projectName": "CW_4_1",
-      "projectPath": "F:\\software\\exe\\visual studio 2022\\maktabSh\\CW\\CW4\\CW_4_1\\MaktabSharipCW5-Group1\\CW_4_1\\CW_4_1\\CW_4_1.csproj",
+      "projectPath": "F:\\software\\exe\\visual studio 2022\\maktabSh\\CW\\CW4\\CW_4_1\\newDir\\MaktabSharipCW5-Group1\\CW_4_1\\CW_4_1\\CW_4_1.csproj",
       "packagesPath": "C:\\Users\\amir\\.nuget\\packages\\",
-      "outputPath": "F:\\software\\exe\\visual studio 2022\\maktabSh\\CW\\CW4\\CW_4_1\\MaktabSharipCW5-Group1\\CW_4_1\\CW_4_1\\obj\\",
+      "outputPath": "F:\\software\\exe\\visual studio 2022\\maktabSh\\CW\\CW4\\CW_4_1\\newDir\\MaktabSharipCW5-Group1\\CW_4_1\\CW_4_1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\ProgramData\\Xamarin\\NuGet\\",
@@ -32,14 +31,15 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net60"
+        "net6.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net60": {
+        "net6.0": {
+          "targetAlias": "net6.0",
           "projectReferences": {}
         }
       },
@@ -50,11 +50,25 @@
       }
     },
     "frameworks": {
-      "net60": {}
-    },
-    "runtimes": {
-      "win7-x86": {
-        "#import": []
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
